@@ -1,0 +1,31 @@
+Total Entries:52
+
+Successful requests no and %:   52(100%)
+
+Unsuccessful requests no and %:   0(0%)
+
+Most visited files in the descending order (no and %) in the following format  :
+file    no    %
+/apache_pb.gif    52    100
+
+
+Most popular referrers in the descending order (no and %) in the following format  :
+file    no    %
+http://www.example.com/start.html    47    90.384615384615
+http://www.example5.com/start.html    1    1.9230769230769
+http://www.example2.com/start.html    1    1.9230769230769
+http://www.example4.com/start.html    1    1.9230769230769
+http://www.example3.com/start.html    1    1.9230769230769
+http://www.example1.com/start.html    1    1.9230769230769
+
+
+Most user agent browsers used in the descending order (no and %) in the following format  :
+Browser    no    %
+
+Mozilla Firefox    52    100
+
+
+Most user agent OS used in the descending order (no and %) in the following format  :
+Browser    no    %
+
+Windows    52    100
